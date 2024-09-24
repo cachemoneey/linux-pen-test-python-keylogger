@@ -12,6 +12,7 @@ Then we analysed the executable file to validate if it contained anything malici
     - Linux Server (Ubuntu 22.04)
     - Virustotal.com malware detection
     - Python script
+    - Visual Studio 2022
 *
 # Live demonstration
 
