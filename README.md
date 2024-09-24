@@ -17,10 +17,6 @@ Then we analysed the executable file to validate if it contained anything malici
 # Live demonstration
 
 
-# Detailed process of the project
-
-In the initial stages of the project, 
-
 
 # Containment, Eradication & Recovery
 *
