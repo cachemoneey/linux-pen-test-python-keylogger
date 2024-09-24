@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8860a400-55a4-4ed4-9cc6-bc3b94caf5d1)![image](https://github.com/user-attachments/assets/47d4bccc-ed8c-4ae5-becd-6e35bdce1517)![image](https://github.com/user-attachments/assets/855d460b-6a05-4bb1-8a03-5edd172dcff5)![image](https://github.com/user-attachments/assets/bd766076-7f9e-4e1b-a387-73aaf5bb38ba)# Penetration Testing Linux Server using Python Keylogger
+# Penetration Testing Linux Server using Python Keylogger
 
 # Introduction
 
