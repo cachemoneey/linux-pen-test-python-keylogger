@@ -46,9 +46,11 @@ Then we analysed the executable file to validate if it contained anything malici
 # Improvements
 
 Steps to implement to improve the process of this project in the future:
+*
     - We can create a task and the trigger at logon and we can select the keylogger program as an action to automate the process.
     - We can improve the process by using a more useful programming language that every team member can use in C# language
     - We can test if all file types are encrypted and decrypted
+*
 
 
 
